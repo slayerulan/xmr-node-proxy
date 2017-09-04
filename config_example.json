@@ -2,7 +2,7 @@
   "pools": [
     {
       "hostname": "pool.supportxmr.com",
-      "port": 7777,
+      "portRange": "80-10000",
       "ssl": false,
       "allowSelfSignedSSL": false,
       "share": 80,
