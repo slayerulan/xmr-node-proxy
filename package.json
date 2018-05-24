@@ -30,7 +30,7 @@
     "moment": "2.17.1",
     "range": "0.0.3",
     "request": "^2.79.0",
-    "request-json": "0.6.1",
+    "request-json": "0.6.3",
     "sprintf-js": "^1.0.3",
     "uuid": "3.0.1"
   },
